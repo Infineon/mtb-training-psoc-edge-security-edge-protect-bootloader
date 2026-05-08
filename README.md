@@ -45,7 +45,7 @@ This training includes a hands-on lab providing practical experience with Edge P
 - Get hands-on experience utilizing Edge Protect Bootloader
 
 ## Content
-- Training video at Infineon Academy (coming soon)
+- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/5da21bd1-1cfd-4863-aa0a-357d3fcfb63a)
 - [Presentation](./Presentation/PSE84_Edge_Protect_Bootloader.pdf)
 - [Training manual](./Manual/PSE84_Edge_Protect_Bootloader_Training_Manual.pdf)
 
